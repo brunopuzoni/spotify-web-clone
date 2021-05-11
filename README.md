@@ -17,7 +17,7 @@ git clone https://github.com/brunopuzoni/spotify-web-clone.git
 
 cd spotify-clone-reactjs/client
 
-yarn
+yarn install
 
 yarn start
 ```
@@ -27,7 +27,7 @@ yarn start
 ```
 cd spotify-clone-reactjs/server
 
-yarn
+yarn install
 
 yarn start
 ```
